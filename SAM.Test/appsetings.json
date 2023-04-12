@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "SAMConnection": "Data Source=DESKTOP-VNR9LUN\\SQLEXPRESS;Database=SAM;Integrated Security=true;"
+  }
+}
